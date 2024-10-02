@@ -1,0 +1,10 @@
+C:\SashoG 12a\Zadachka Figuri\bin\Debug\Zadachka Figuri.exe.config
+C:\SashoG 12a\Zadachka Figuri\bin\Debug\Zadachka Figuri.exe
+C:\SashoG 12a\Zadachka Figuri\bin\Debug\Zadachka Figuri.pdb
+C:\SashoG 12a\Zadachka Figuri\obj\Debug\Zadachka Figuri.csproj.AssemblyReference.cache
+C:\SashoG 12a\Zadachka Figuri\obj\Debug\Zadachka_Figuri.Form1.resources
+C:\SashoG 12a\Zadachka Figuri\obj\Debug\Zadachka_Figuri.Properties.Resources.resources
+C:\SashoG 12a\Zadachka Figuri\obj\Debug\Zadachka Figuri.csproj.GenerateResource.cache
+C:\SashoG 12a\Zadachka Figuri\obj\Debug\Zadachka Figuri.csproj.CoreCompileInputs.cache
+C:\SashoG 12a\Zadachka Figuri\obj\Debug\Zadachka Figuri.exe
+C:\SashoG 12a\Zadachka Figuri\obj\Debug\Zadachka Figuri.pdb
